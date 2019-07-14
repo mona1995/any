@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Cairo');
+*{
+  padding: 0px;
+  margin:0px; 
+  box-sizing: border-box; 
+  font-family: 'Cairo', sans-serif; 
+  text-rendering:optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+     
+}
+html{
+    height: 100%
+}
+body{
+  height:100%
+  background-color:#eee;
+  font: 1em Oswald;
+  text-rendering: optimizeLegibility !important;
+ -webkit-font-smooting: antialiased !important;
+ 
+}
+#container{
+ width:100% ;
+ margin:0 auto;
+
+ 
+}
+
+a{
+   color: floralwhite ; 
+}
+img{
+ max-width: 100%   
+    
+}
